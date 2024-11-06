@@ -1,5 +1,5 @@
 {
-  "name": "@typebot.io/partykit",
+  "name": "arladmin/partykit",
   "scripts": {
     "dev": "partykit dev --live",
     "deploy": "partykit deploy"
